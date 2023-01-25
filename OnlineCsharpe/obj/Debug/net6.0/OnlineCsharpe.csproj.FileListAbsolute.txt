@@ -1,0 +1,15 @@
+C:\Users\marina\Desktop\sem3HW\OnlineCsharpe\bin\Debug\net6.0\OnlineCsharpe.exe
+C:\Users\marina\Desktop\sem3HW\OnlineCsharpe\bin\Debug\net6.0\OnlineCsharpe.deps.json
+C:\Users\marina\Desktop\sem3HW\OnlineCsharpe\bin\Debug\net6.0\OnlineCsharpe.runtimeconfig.json
+C:\Users\marina\Desktop\sem3HW\OnlineCsharpe\bin\Debug\net6.0\OnlineCsharpe.dll
+C:\Users\marina\Desktop\sem3HW\OnlineCsharpe\bin\Debug\net6.0\OnlineCsharpe.pdb
+C:\Users\marina\Desktop\sem3HW\OnlineCsharpe\obj\Debug\net6.0\OnlineCsharpe.csproj.AssemblyReference.cache
+C:\Users\marina\Desktop\sem3HW\OnlineCsharpe\obj\Debug\net6.0\OnlineCsharpe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina\Desktop\sem3HW\OnlineCsharpe\obj\Debug\net6.0\OnlineCsharpe.AssemblyInfoInputs.cache
+C:\Users\marina\Desktop\sem3HW\OnlineCsharpe\obj\Debug\net6.0\OnlineCsharpe.AssemblyInfo.cs
+C:\Users\marina\Desktop\sem3HW\OnlineCsharpe\obj\Debug\net6.0\OnlineCsharpe.csproj.CoreCompileInputs.cache
+C:\Users\marina\Desktop\sem3HW\OnlineCsharpe\obj\Debug\net6.0\OnlineCsharpe.dll
+C:\Users\marina\Desktop\sem3HW\OnlineCsharpe\obj\Debug\net6.0\refint\OnlineCsharpe.dll
+C:\Users\marina\Desktop\sem3HW\OnlineCsharpe\obj\Debug\net6.0\OnlineCsharpe.pdb
+C:\Users\marina\Desktop\sem3HW\OnlineCsharpe\obj\Debug\net6.0\OnlineCsharpe.genruntimeconfig.cache
+C:\Users\marina\Desktop\sem3HW\OnlineCsharpe\obj\Debug\net6.0\ref\OnlineCsharpe.dll
